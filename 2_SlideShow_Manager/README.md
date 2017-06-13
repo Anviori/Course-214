@@ -1,5 +1,7 @@
 Slideshow Manager
 
+Introduction:
+
 Algorithms and Datastructures second assginment. Creating a program that 
 introduces the use of Stack to implement a slideshow manager that can use 
 Un-do and Re-do.

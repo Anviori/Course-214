@@ -1,5 +1,7 @@
 Tic Tac Toe
 
+Introduction:
+
 Algorithms and Datastructures fourth assginment. This assignment introduces
 recursion to build a Tic Tac Toe AI that cannot lose. 
 

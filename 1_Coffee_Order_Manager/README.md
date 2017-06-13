@@ -1,5 +1,7 @@
 COFFEE ORDER MANAGER
 
+Introduction:
+
 Algorithms and Datastructures first assginment. Creating a program that 
 introduces the use of linked lists. This program uses a doubly linked list 
 to keep track of the orders of two baristas (two lists) for a coffee shop; a cursor
