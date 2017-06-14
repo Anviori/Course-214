@@ -1,6 +1,8 @@
-#Office Hours Simulator
+Office Hours Simulator
+======
 
-#Introduction:
+Introduction:
+======
 
 Algorithms and Datastructures third assginment. Implementing a simulation that
 models a line at a professor's office. 

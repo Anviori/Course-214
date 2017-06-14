@@ -1,12 +1,14 @@
 Social Network
+======
 
 Introduction:
+======
 
-Algorithms and Datastructures fith assginment. This assignment introduces
+Algorithms and Datastructures fifth assginment. This assignment introduces
 Hashmaps to model a Social Network. The use of implementing serializable is 
 also introduced.
 
-- The hasmaps are used to create two databases for each user and each account.
+- The hashmaps are used to create two databases for each user and each account.
 
 - Users log in via email address and password.
 

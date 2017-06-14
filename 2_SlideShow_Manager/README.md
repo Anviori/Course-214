@@ -1,7 +1,7 @@
-#Slideshow Manager
+Slideshow Manager
 ======
 
-#Introduction:
+Introduction:
 ======
 
 Algorithms and Datastructures second assginment. Creating a program that 

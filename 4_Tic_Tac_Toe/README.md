@@ -1,11 +1,14 @@
-#Tic Tac Toe
+Tic Tac Toe
+======
 
-#Introduction:
+Introduction:
+======
 
 Algorithms and Datastructures fourth assginment. This assignment introduces
-recursion to build a Tic Tac Toe AI that cannot lose. 
+Trees using recursion to build a Tic Tac Toe AI that cannot lose. 
 
-- A game tree is used to build the game (this is done recursively).
+- The entire game tree (a 9-ary tree) is built initially 
+(as soon as the program starts). It is done recursively. 
 
-- Each node of the tree is a different possible move depending on what move
+- Each node of the game tree is a different possible move depending on what move
 the root is.

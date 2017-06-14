@@ -1,6 +1,8 @@
 Six Degrees of Kevin Bacon
+======
 
 Introduction:
+======
 
 Algorithms and Datastructures sixth assginment. This assignment introduces
 the use of finding the shortest path between two points. This is explored by
