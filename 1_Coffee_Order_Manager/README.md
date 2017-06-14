@@ -1,7 +1,7 @@
-#COFFEE ORDER MANAGER
+COFFEE ORDER MANAGER
 ======
 
-#Introduction:
+Introduction:
 ======
 
 Algorithms and Datastructures first assginment. Creating a program that 
