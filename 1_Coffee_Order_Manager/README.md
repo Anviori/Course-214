@@ -1,6 +1,8 @@
-COFFEE ORDER MANAGER
+#COFFEE ORDER MANAGER
+======
 
-Introduction:
+#Introduction:
+======
 
 Algorithms and Datastructures first assginment. Creating a program that 
 introduces the use of linked lists. This program uses a doubly linked list 

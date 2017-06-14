@@ -1,6 +1,8 @@
-Slideshow Manager
+#Slideshow Manager
+======
 
-Introduction:
+#Introduction:
+======
 
 Algorithms and Datastructures second assginment. Creating a program that 
 introduces the use of a Stack to implement a slideshow manager that can use 
