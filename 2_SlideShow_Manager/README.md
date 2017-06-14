@@ -3,7 +3,7 @@ Slideshow Manager
 Introduction:
 
 Algorithms and Datastructures second assginment. Creating a program that 
-introduces the use of Stack to implement a slideshow manager that can use 
+introduces the use of a Stack to implement a slideshow manager that can use 
 Un-do and Re-do.
 
 - The program can add, remove, move, and swap images.
