@@ -27,3 +27,14 @@ with the highest course number but will spend twice as long as the professor
 answering questions.
 
 - The program outputs a minute by minute simulation of the office hours line.
+
+- The textfile being read must be of this format:
+
+	number of courses:3
+	course numbers:219 214 114
+	arrival probabilities:0.4 0.6 0.8
+	min time:2
+	max time:4
+	num cups:1
+	simulation time:50
+	number of tas:2
