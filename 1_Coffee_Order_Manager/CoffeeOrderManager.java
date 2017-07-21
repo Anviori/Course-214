@@ -1,13 +1,3 @@
-/**
- * @author Wilmer Suarez
- * 109592501
- * Homework Number 2
- * R14
- * Tayo Amuneke and Yiwen Wang
- * Grading TA: Anand Aiyer 
- */
-
-package assignment_2;
 import java.io.*;
 
 public class CoffeeOrderManager {
