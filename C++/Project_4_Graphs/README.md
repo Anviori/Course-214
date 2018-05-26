@@ -1,6 +1,9 @@
 Adjacency lists
+======
 Depth-First Traversal
+======
 Breadth-First Traversal
+======
 Shortest Path Algorithm (Dijkstra)
 ======
 
